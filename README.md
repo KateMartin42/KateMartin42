@@ -1,4 +1,6 @@
-### Hi there 👋###I'm reading Tweets of Congress ###You can find it at https://github.com/alexlitel/congresstweets/tree/master
+### Hi there 👋 
+I'm reading Tweets of Congress 
+You can find it at https://github.com/alexlitel/congresstweets/tree/master
 
 <!--
 **KateMartin42/KateMartin42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
