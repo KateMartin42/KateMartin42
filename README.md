@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm reading about Open Refine
+I'm reading about GOvernment Spending and Open Refine. 
 You can read more about it [here](https://github.com/elahmo/us-governmental-spendings/blob/master/README.md).
 
 <!--
